@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: In AI before it was trendy.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Dublin, Ireland</p>
+    <p>Head of AI Transformation</p>
+    <p>Oneview Healthcare</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 5
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I've spent the last fifteen-odd years bouncing between hardware, software, and AI — sometimes all at once. Started out trying to make cheap solar cells at SolarPrint, picked up a couple of European patents along the way, then did a stint at Intel Labs before heading to Imperial College London for a PhD. I was a researcher at the Alan Turing Institute too, which sounds fancier than it felt at the time.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I've founded three companies (Domus.ai, Glanaer, and AutoPlan) and went through Entrepreneur First twice — once in London, once in Singapore, because apparently I'm a slow learner. Along the way I co-founded [The Bedroom Laboratory](https://www.thebedlab.com), a maker collective, and our Climo air quality project won a CES 2018 innovation award, which was a pleasant surprise.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+These days I'm Head of AI Transformation at [Oneview Healthcare](https://www.oneviewhealthcare.com), figuring out where AI genuinely helps in hospitals and where it's just hype. I've also got an Advanced Diploma in Environmental & Planning Law from King's Inns, because why not.
+
+When I'm not doing any of that, I'm building a brewery management game called BeerBrew Tycoon — using AI-assisted development, naturally. I've published 5 peer-reviewed papers, but honestly the game might be more fun to talk about.
