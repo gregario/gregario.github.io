@@ -46,4 +46,4 @@ The NLP work was the core. Planning documents are dense, technical, and full of 
 
 Was the tech brilliant? Sometimes. Was it hacky in places? Definitely. Was it better than the alternative (an architect manually reading 400-page PDFs)? Absolutely.
 
-Seven logos. One person. One laptop. And a growing collection of Python scripts held together by determination and cloud credits. That's the honest state of early-stage startup infrastructure, no matter how good the slide deck looks.
+Seven logos. One person. One laptop. And a growing collection of Python scripts held together by determination and cloud credits. Credit where it's due: my Enterprise Ireland advisor Niamh kept me honest about what the logos meant versus what I still needed to prove, and the NDRC alumni network (particularly Dave from the medtech cohort) kept me sane during the solo stretches. That's the honest state of early-stage startup infrastructure, no matter how good the slide deck looks.

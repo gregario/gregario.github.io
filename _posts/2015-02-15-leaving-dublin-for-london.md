@@ -24,7 +24,7 @@ The flagship project I worked on was called the Internet of School Things. The c
 
 What happens, it turns out, is that kids are better at spotting patterns than most adults. One class noticed their CO2 levels spiked every afternoon and worked out it was because their teacher kept the windows closed. Another group discovered the warmest spot in their playground was next to the kitchen extraction vent. They'd hang around there at break time. Brilliant.
 
-We deployed sensor kits in the bones of 20 schools across London. Each kit cost around £150 in components — a Raspberry Pi, a custom sensor board, a few breakout sensors, and a case that was supposed to be tamper-proof but absolutely wasn't. One school's kit was "repurposed" by a Year 6 student within the first week. I wasn't even angry, just impressed.
+We deployed sensor kits in the bones of 20 schools across London. Each kit cost around £150 in components: a Raspberry Pi, a custom sensor board, a few breakout sensors, and a case that was supposed to be tamper-proof but absolutely wasn't. One school's kit was "repurposed" by a Year 6 student within the first week. I wasn't even angry, just impressed.
 
 ## The Shift
 
@@ -36,7 +36,7 @@ That question changed how I think about technology. Full stop.
 
 ## So Why London?
 
-People ask me this a lot. Dublin was (and is) a proper tech hub. Intel, Google, Facebook, Microsoft — they're all there. Why leave?
+People ask me this a lot. Dublin was (and is) a proper tech hub. Intel, Google, Facebook, Microsoft, they're all there. Why leave?
 
 Honestly? I wanted to be uncomfortable. Dublin was comfortable. I had my local, my football, my mates. London was chaos. Eight million people, a tube system that's simultaneously the best and worst public transport on earth, and rent that made me physically wince. My flat in Bethnal Green was £650 a month for a room that could generously be described as "cosy" and more accurately described as "a cupboard with a window."
 

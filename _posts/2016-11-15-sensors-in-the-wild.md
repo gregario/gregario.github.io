@@ -3,7 +3,7 @@ layout: post
 title: "What Actually Happens When You Deploy Sensors in the Wild"
 date: 2016-11-15
 categories: academic
-description: A preview of the "Tales from the Wild" paper — three case studies from the London Living Lab covering air quality, microclimate, and urban bat monitoring.
+description: A preview of the "Tales from the Wild" paper, three case studies from the London Living Lab covering air quality, microclimate, and urban bat monitoring.
 ---
 
 We submitted a paper last month with the working title "Tales from the Wild." The official title is longer and more academic, but the sentiment is the same: we deployed a load of sensors in London, and here's what went wrong.
@@ -20,7 +20,7 @@ This was our bread and butter. Electrochemical NO2 sensors and optical particula
 
 Our NO2 sensors were also sensitive to temperature and humidity. Not a little bit. A lot. On a hot day, the temperature cross-sensitivity could introduce a 15-20% error in the NO2 reading. We'd see what looked like a pollution spike on a sunny afternoon, and it was actually the sensor responding to heat.
 
-The fix was a correction algorithm: measure the temperature simultaneously, apply a correction factor. Simple enough in theory. In practice, the correction factors varied between individual sensors — even sensors from the same manufacturing batch. Each sensor needed its own calibration curve. We had 47 air quality nodes. That's 47 individual calibrations.
+The fix was a correction algorithm: measure the temperature simultaneously, apply a correction factor. Simple enough in theory. In practice, the correction factors varied between individual sensors, even sensors from the same manufacturing batch. Each sensor needed its own calibration curve. We had 47 air quality nodes. That's 47 individual calibrations.
 
 The cost in researcher time was substantial. Each co-location calibration took a week of data collection plus a day of analysis. Total effort across the network: the bones of 60 person-days just for calibration. For a "low-cost" sensing network, the hidden costs add up fast.
 
@@ -40,7 +40,7 @@ This was the weird one. We deployed ultrasonic microphones to detect bat echoloc
 
 It worked, sort of. We detected bat calls. We identified species. The equipment cost about £180 per monitoring point (a Raspberry Pi, a USB ultrasonic microphone, and a weatherproof enclosure). Cheaper than the traditional method of trained ecologists with handheld detectors at £300-400 per night.
 
-The failure was data noise. London is full of things that make sounds above 20 kHz: key fobs, security alarms, air brakes on lorries, and — this was a surprise — LED streetlights. Some LED drivers emit high-frequency whine right in the bat detection range. Our classification algorithm flagged LED streetlights as pipistrelle bats more often than I'd like to admit.
+The failure was data noise. London is full of things that make sounds above 20 kHz: key fobs, security alarms, air brakes on lorries, and (this was a surprise) LED streetlights. Some LED drivers emit high-frequency whine right in the bat detection range. Our classification algorithm flagged LED streetlights as pipistrelle bats more often than I'd like to admit.
 
 We added a filtering stage that could distinguish between the regular pulse pattern of a streetlight and the more irregular pattern of an actual bat call. This dropped our false positive rate from about 30% to under 5%. But it took three months of data collection to understand the problem and build the filter. Three months of "bat detections" that were actually Philips streetlights.
 

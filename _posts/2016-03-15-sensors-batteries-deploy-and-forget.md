@@ -3,7 +3,7 @@ layout: post
 title: "Sensors, Batteries, and Why 'Deploy and Forget' is a Lie"
 date: 2016-03-15
 categories: academic
-description: The core problem of my PhD taking shape — battery degradation in wireless sensor networks and why existing energy harvesting models assume batteries last forever.
+description: The core problem of my PhD taking shape. Battery degradation in wireless sensor networks and why existing energy harvesting models assume batteries last forever.
 ---
 
 Six months into my PhD and I've read 127 papers. I know this because I have a spreadsheet, and the spreadsheet is the only thing stopping me from losing my mind. Of those 127 papers, roughly 80 deal with energy harvesting in wireless sensor networks. And of those 80, exactly three mention battery degradation.
@@ -36,7 +36,7 @@ The maths is sound. The control theory is elegant. Some of these papers have gen
 
 But almost all of them model the battery as a bucket. Energy goes in, energy comes out. The bucket never leaks, never shrinks, never changes. It's the same bucket on day 1 as it is on day 1,000.
 
-Quick tangent: I spent two weeks reading about battery chemistry and it's properly fascinating. The reason lithium-ion batteries degrade is that lithium ions get trapped in the solid electrolyte interphase layer during charging. They're physically locked away, unable to participate in future cycles. It's like losing soldiers in battle — each cycle, a few more don't come back. There's a poetic sadness to it, if you're the kind of person who finds poetry in electrochemistry. I might be that person. It's been a long six months.
+Quick tangent: I spent two weeks reading about battery chemistry and it's properly fascinating. The reason lithium-ion batteries degrade is that lithium ions get trapped in the solid electrolyte interphase layer during charging. They're physically locked away, unable to participate in future cycles. It's like losing soldiers in battle. Each cycle, a few more don't come back. There's a poetic sadness to it, if you're the kind of person who finds poetry in electrochemistry. I might be that person. It's been a long six months.
 
 ## Why This Matters
 

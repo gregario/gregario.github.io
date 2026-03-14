@@ -14,7 +14,7 @@ Healthcare doesn't tolerate chaos well.
 
 ## What "AI-Native" Actually Means Operationally
 
-Everyone says they want to be "AI-native." It's one of those phrases that sounds strategic in a board meeting but dissolves into vagueness when you try to implement it. So I spent three weeks interviewing every team lead, every product manager, and our compliance officer to figure out what AI-native would actually look like at Oneview.
+Everyone says they want to be "AI-native." It's one of those phrases that sounds strategic in a board meeting but dissolves into vagueness when you try to implement it. So I spent three weeks interviewing every team lead, every product manager, and our compliance officer Rachel to figure out what AI-native would actually look like at Oneview.
 
 The answer: it means AI is a first-class consideration in every stage of the software development lifecycle, not an afterthought bolted on at the end.
 

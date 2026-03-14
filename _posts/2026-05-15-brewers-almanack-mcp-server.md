@@ -50,7 +50,7 @@ The trade-off is maintenance: when the BJCP releases updated guidelines, I need 
 
 ## The BeerBrew Tycoon Connection
 
-Building brewers-almanack after BeerBrew Tycoon was cheating, in the best way. The game already had brewing science models: quality calculations, hop utilisation curves, ingredient interactions. brewers-almanack formalised and expanded that knowledge into a standalone tool.
+Building brewers-almanack after BeerBrew Tycoon was cheating, in the best way. The game already had brewing science models: quality calculations, hop utilisation curves, ingredient interactions. brewers-almanack (built with Claude Code doing the heavy lifting) formalised and expanded that knowledge into a standalone tool.
 
 Some data flowed the other direction too. While building the almanack's hop database, I discovered inconsistencies in BeerBrew Tycoon's hop data (several alpha acid ranges were wrong). The almanack made the game better, and the game made the almanack more practical. Unplanned synergies are the best kind.
 

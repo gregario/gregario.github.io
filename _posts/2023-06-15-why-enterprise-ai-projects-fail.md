@@ -3,7 +3,7 @@ layout: post
 title: "Hot Take: Why Enterprise AI Projects Fail (It's Not the AI)"
 date: 2023-06-15
 categories: opinion
-description: After a decade in AI across startups and enterprise, I can tell you — the model is never the problem.
+description: After a decade in AI across startups and enterprise, I can tell you the model is never the problem.
 ---
 
 I watched a Fortune 500 company spend €2.3 million on an "AI transformation initiative" that produced exactly one PowerPoint deck and a proof-of-concept that nobody used. The PoC worked brilliantly in the demo. It worked brilliantly in the boardroom. It never touched a real workflow because the department it was supposed to help hadn't been consulted during the eight-month build process.
@@ -12,13 +12,13 @@ This happens constantly. And I'm tired of people blaming the AI.
 
 ## It's always one of three things
 
-I've been working in AI since 2013 — Intel Labs, then a PhD, then two startups, then the Turing Institute, now enterprise. In that time, I've seen the bones of 30 AI projects up close. The ones that fail, and most of them fail, share the same root causes. It's never the model. It's the data, the process, or the politics.
+I've been working in AI since 2013. Intel Labs, then a PhD, then two startups, then the Turing Institute, now enterprise. In that time, I've seen the bones of 30 AI projects up close. The ones that fail, and most of them fail, share the same root causes. It's never the model. It's the data, the process, or the politics.
 
-**The data.** Every AI project starts with the assumption that the data exists and is clean. It almost never is. At ZF, we had vehicle telematics data from millions of trucks across Europe. Sounds brilliant, right? Except the data came from 14 different hardware generations with different sensor configurations, different sampling rates, and different error codes for the same faults. We spent four months just building a normalisation layer before any ML work could begin.
+**The data.** Every AI project starts with the assumption that the data exists and is clean. It almost never is. At ZF, my colleague Stefan and I had vehicle telematics data from millions of trucks across Europe. Sounds brilliant, right? Except the data came from 14 different hardware generations with different sensor configurations, different sampling rates, and different error codes for the same faults. We spent four months just building a normalisation layer before any ML work could begin.
 
 I've seen this pattern everywhere. The data is in three systems that don't talk to each other. It's in a format that made sense in 2008 but is now incomprehensible. There's a critical field that's null 40% of the time because one team stopped filling it in years ago and nobody noticed.
 
-**The process.** AI doesn't automate a process — it automates a specific version of that process. If the process isn't well-defined, standardised, and documented, the AI will learn one person's interpretation of it and produce garbage for everyone else.
+**The process.** AI doesn't automate a process. It automates a specific version of that process. If the process isn't well-defined, standardised, and documented, the AI will learn one person's interpretation of it and produce garbage for everyone else.
 
 At AutoPlan, we built scheduling optimisation for construction projects. The algorithm was genuinely good. The problem was that no two project managers defined "task dependency" the same way. One PM's "must finish before" was another PM's "should ideally overlap with." The AI couldn't resolve a disagreement that the humans hadn't resolved first.
 
@@ -40,7 +40,7 @@ The companies that succeed with AI don't treat it as a technology project. They 
 
 That means: a sponsor who owns the outcome, not the output. A team that includes the people whose work will change, not just the people building the system. A willingness to change the process before automating it. And honest conversations about what happens to the people whose jobs are affected.
 
-At ZF, the AI projects that shipped and stuck had one thing in common — they started with a specific person's specific problem. Not "optimise fleet maintenance" but "help Thomas know which van needs brake pads before next Tuesday." The specificity forced clarity on data, process, and politics before anyone wrote a line of code.
+At ZF, the AI projects that shipped and stuck had one thing in common: they started with a specific person's specific problem. Not "optimise fleet maintenance" but "help Thomas know which van needs brake pads before next Tuesday." The specificity forced clarity on data, process, and politics before anyone wrote a line of code.
 
 ## So what should you actually do?
 

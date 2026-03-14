@@ -3,7 +3,7 @@ layout: post
 title: "The London Living Lab: Deploying Hundreds of Air Quality Sensors Across a City"
 date: 2015-08-15
 categories: professional
-description: Technical architect on the London Living Lab — deploying hundreds of air quality, weather, and environmental sensors across London and learning what breaks at scale.
+description: Technical architect on the London Living Lab, deploying hundreds of air quality, weather, and environmental sensors across London and learning what breaks at scale.
 ---
 
 I once spent an entire afternoon in Enfield trying to work out why a sensor node was reporting that the air quality was worse inside a primary school than next to the North Circular. Turns out a kid had put a crisp packet over it. Prawn Cocktail flavour, if you're wondering.
@@ -20,7 +20,7 @@ I was the technical architect, which sounds grand but mostly meant I was the per
 
 Each node was built around a Raspberry Pi (Model B+, £25 each) with a custom sensor board. The sensor stack:
 
-- **Alphasense OPC-N2** for particulate matter (£250 each, and yes, that's per unit — this was the expensive bit)
+- **Alphasense OPC-N2** for particulate matter (£250 each, and yes, that's per unit, this was the expensive bit)
 - **Alphasense NO2-B43F** electrochemical gas sensor (£35)
 - **DHT22** for temperature and humidity (£8)
 - **TSL2561** for ambient light (£5)
@@ -32,9 +32,9 @@ Total cost per node: around £350, plus the enclosure (£15 for a weatherproof b
 
 Everything. Everything goes wrong. Here's a non-exhaustive list of things that went wrong during the London Living Lab:
 
-**Power.** About 30% of our sensor failures were power-related. Nodes would be plugged into outdoor sockets that someone would unplug to charge their phone. Or the socket would trip in the rain. Or — and this happened twice — someone would decide the extension lead powering our sensor was "untidy" and unplug it.
+**Power.** About 30% of our sensor failures were power-related. Nodes would be plugged into outdoor sockets that someone would unplug to charge their phone. Or the socket would trip in the rain. Or (and this happened twice) someone would decide the extension lead powering our sensor was "untidy" and unplug it.
 
-**Connectivity.** We used WiFi where schools or buildings would give us access, and 3G dongles everywhere else. The 3G dongles cost £10/month each on a data SIM. Multiply that by 200 nodes and suddenly your running costs are £2,000 a month just for connectivity. Also, 3G coverage in London is patchy. I know, I know, you'd think central London would be fine. It's not. Basements, courtyards, anywhere with thick walls — dead zones.
+**Connectivity.** We used WiFi where schools or buildings would give us access, and 3G dongles everywhere else. The 3G dongles cost £10/month each on a data SIM. Multiply that by 200 nodes and suddenly your running costs are £2,000 a month just for connectivity. Also, 3G coverage in London is patchy. I know, I know, you'd think central London would be fine. It's not. Basements, courtyards, anywhere with thick walls. Dead zones.
 
 **Enclosures.** Our weatherproof boxes were not, in fact, weatherproof. The cable glands leaked. Condensation formed inside. One node shorted out because a slug got in through a cable entry point. A slug. In an electronics enclosure. In Zone 2 London.
 
@@ -48,7 +48,7 @@ One piece of the project I'm particularly proud of is the work we did in Enfield
 
 So here's the tangent: Enfield is fascinating from an air quality perspective because it has the A10 and the M25 cutting through residential areas. You'd walk two streets from a quiet residential road and the NO2 levels would double. Our data showed that, clearly, on a map. It was the kind of thing that residents had always *felt* but couldn't prove.
 
-The council used the data in a planning consultation. That felt like the project actually mattering, which — if I'm honest — is rare in research.
+The council used the data in a planning consultation. That felt like the project actually mattering, which (if I'm honest) is rare in research.
 
 ## What I Learned
 

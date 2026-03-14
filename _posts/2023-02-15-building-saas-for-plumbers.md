@@ -20,7 +20,7 @@ These people share three characteristics: they have no dedicated fleet manager, 
 
 Vandy (which later became part of the Uptime product family) was designed to be the fleet management tool for people who hate fleet management tools. The core promise: connect your vehicles, and we'll tell you what needs attention before it becomes a problem.
 
-We had two engineering teams — one in Düsseldorf and one in Hyderabad — plus a data science team in Munich. About 35 people total. My job was to make sure all three teams were building towards the same product vision, which sounds simple and is absolutely not.
+We had two engineering teams, one in Düsseldorf and one in Hyderabad, plus a data science team in Munich. About 35 people total. Markus led the Düsseldorf team and Priya ran the Hyderabad side; keeping those two groups building the same product across time zones was its own kind of challenge. My job was to make sure all three teams were building towards the same product vision, which sounds simple and is absolutely not.
 
 The technical backbone was telematics data from ZF's existing hardware. We could pull real-time vehicle diagnostics, location, fuel consumption, and driving behaviour. The challenge was turning that firehose of data into three or four things Katrin should care about this week.
 

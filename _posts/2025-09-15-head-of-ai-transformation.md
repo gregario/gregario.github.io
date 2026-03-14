@@ -34,7 +34,7 @@ Or you can enable. Show people what's possible. Give them safe spaces to experim
 
 Our Community of Practice is at 52 members now (up from 35 three months ago). Nobody was mandated to join. Nobody was mandated to use AI tools. But when you see your colleague ship a feature in half the time, you get curious. I'll take curiosity over compliance.
 
-(A tangent: this is exactly what I got wrong at my first startup. At SolarPrint, we tried to mandate adoption of new manufacturing processes. The engineering team resisted. When we switched to letting one team pilot the new process and share their results, the other teams adopted voluntarily within a month. I was 26 and learned the hard way that engineers don't respond well to being told what to do. Neither, it turns out, does anyone else.)
+(A tangent: this is exactly what I got wrong at my first startup. At SolarPrint, Colm and I tried to mandate adoption of new manufacturing processes. The engineering team resisted. When we switched to letting one team pilot the new process and share their results, the other teams adopted voluntarily within a month. I was 26 and learned the hard way that engineers don't respond well to being told what to do. Neither, it turns out, does anyone else.)
 
 ## The Strategic Roadmap
 

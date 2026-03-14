@@ -46,6 +46,6 @@ The biggest adjustment wasn't process or politics — it was feedback loops. In 
 
 I compensated by building a direct line to about fifteen customers who'd agreed to weekly check-ins. My manager thought I was spending too much time on customer calls. I thought I was spending exactly the right amount. We agreed to disagree.
 
-Eight months in, I can say this: I'm learning things about product management at scale that I couldn't have learned any other way. The startup years taught me how to build from zero. ZF is teaching me how to build from zero when zero is surrounded by a hundred years of something.
+Eight months in, I can say this: I'm learning things about product management at scale that I couldn't have learned any other way. My lead engineer, Markus, has been patient enough to explain why things that took me ten minutes in a startup take ten days here, and our UX designer, Clara, has a gift for translating enterprise complexity into screens that Thomas the plumber would actually use. The startup years taught me how to build from zero. ZF is teaching me how to build from zero when zero is surrounded by a hundred years of something.
 
 Whether that's a skill I'll use inside enterprise forever or take back to the startup world, I genuinely don't know yet. Ask me in a year.

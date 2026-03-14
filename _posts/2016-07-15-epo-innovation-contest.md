@@ -12,11 +12,11 @@ So. The European Patent Office runs an annual innovation contest for young resea
 
 ## The Concept
 
-My entry was built around transparent phase change materials (PCMs) for building insulation. The idea is this: buildings waste an extraordinary amount of energy on heating and cooling. In the EU, buildings account for roughly 40% of total energy consumption. Traditional insulation — fibreglass, foam, wool — works by slowing heat transfer. It's passive. It doesn't store energy; it just makes the energy leak more slowly.
+My entry was built around transparent phase change materials (PCMs) for building insulation. The idea is this: buildings waste an extraordinary amount of energy on heating and cooling. In the EU, buildings account for roughly 40% of total energy consumption. Traditional insulation (fibreglass, foam, wool) works by slowing heat transfer. It's passive. It doesn't store energy; it just makes the energy leak more slowly.
 
-Phase change materials do something different. They absorb heat energy when they melt and release it when they solidify, like a thermal battery. Paraffin wax is a common PCM — when your room heats up, the wax melts and absorbs excess heat. When it cools down, the wax solidifies and releases that stored heat back. You get temperature smoothing for free.
+Phase change materials do something different. They absorb heat energy when they melt and release it when they solidify, like a thermal battery. Paraffin wax is a common PCM: when your room heats up, the wax melts and absorbs excess heat. When it cools down, the wax solidifies and releases that stored heat back. You get temperature smoothing for free.
 
-The problem is that traditional PCMs are opaque. You can't put paraffin wax in a window. And windows are where a huge amount of heat loss happens — a typical single-glazed window has a U-value of about 5.8 W/m²K, which in practical terms means it's thermally useless.
+The problem is that traditional PCMs are opaque. You can't put paraffin wax in a window. And windows are where a huge amount of heat loss happens. A typical single-glazed window has a U-value of about 5.8 W/m²K, which in practical terms means it's thermally useless.
 
 My concept was for a transparent PCM that could be integrated into double-glazed window units. A clear material that would sit in the cavity between panes, absorbing solar energy during the day and releasing it at night. Transparent thermal storage in a window. The estimated energy saving was 15-25% on heating costs for a typical UK dwelling, which at average UK gas prices would save a household the bones of £150-200 per year.
 
@@ -26,7 +26,7 @@ The European Patent Office is in Munich, and the contest ran over three days. Th
 
 Here's where I should be honest: the level of competition was intimidating. The German representative had a working prototype of an AI-assisted drug discovery platform. The Dutch team had a novel desalination membrane. The Finnish entry was a biodegradable electronics substrate. And here's me with a PowerPoint about windows.
 
-But the thing about innovation contests is that judges care about impact as much as sophistication. Buildings are 40% of EU energy consumption. If you can reduce that by even a few percent across the entire building stock, the aggregate impact is enormous. My concept didn't require new manufacturing processes — PCMs are already produced at industrial scale, around £8-15 per kilogram depending on the formulation. The novel bit was the transparency, which I'd been exploring through salt hydrate solutions that remain optically clear through their phase transition.
+But the thing about innovation contests is that judges care about impact as much as sophistication. Buildings are 40% of EU energy consumption. If you can reduce that by even a few percent across the entire building stock, the aggregate impact is enormous. My concept didn't require new manufacturing processes. PCMs are already produced at industrial scale, around £8-15 per kilogram depending on the formulation. The novel bit was the transparency, which I'd been exploring through salt hydrate solutions that remain optically clear through their phase transition.
 
 ## The Experience
 

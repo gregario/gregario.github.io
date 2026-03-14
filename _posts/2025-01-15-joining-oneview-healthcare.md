@@ -6,7 +6,7 @@ categories: professional
 description: Platform team lead at a connected care company serving major hospital systems, and why healthcare is the hardest place to ship software.
 ---
 
-My first week at Oneview, I watched a nurse in a partner hospital tap a bedside tablet to order a meal for a patient who couldn't speak. The patient's dietary restrictions, their allergen profile, their care plan preferences — all surfaced automatically. The nurse didn't think about it. She just tapped.
+My first week at Oneview, I watched a nurse in a partner hospital tap a bedside tablet to order a meal for a patient who couldn't speak. The patient's dietary restrictions, their allergen profile, their care plan preferences, all surfaced automatically. The nurse didn't think about it. She just tapped.
 
 That's what "connected care experience" actually means, and it took me about three months to properly understand it.
 
@@ -16,7 +16,7 @@ Oneview builds the software that runs on those bedside tablets and in-room displ
 
 Sounds straightforward, right? It's not. These systems integrate with the hospital's EHR (electronic health record), meal ordering systems, nurse call systems, entertainment platforms, patient education libraries, and about fourteen other things that were all built by different vendors in different decades. The integration surface is enormous.
 
-I'm leading a platform team of 7 engineers plus QA. Our job is the infrastructure that makes all those integrations reliable and the platform that other teams build features on top of. It's the plumbing. Nobody notices plumbing until it breaks, and in a hospital, "breaks" has a different weight than in most software companies.
+I'm leading a platform team of 7 engineers plus QA, with my lead engineer Sarah keeping everything on track. Our job is the infrastructure that makes all those integrations reliable and the platform that other teams build features on top of. It's the plumbing. Nobody notices plumbing until it breaks, and in a hospital, "breaks" has a different weight than in most software companies.
 
 ## Why Healthcare Is Hard
 
@@ -36,7 +36,7 @@ When I joined, one of my first priorities was understanding the integration land
 
 The strategy we're building is about making integrations more composable. Rather than bespoke point-to-point connections for each hospital, we want patterns that can be configured rather than coded. It's the kind of unglamorous architectural work that takes 6-12 months to pay off but makes everything faster after that.
 
-We're also looking at where AI can help, which is why they brought someone with my background onto the platform team. Not "AI for the sake of AI" — I've seen enough of that to last a lifetime — but specific, bounded applications where machine learning or language models can make clinicians' lives easier. Patient communication, clinical documentation, care plan personalisation. All with the appropriate guardrails, because (see above) healthcare.
+We're also looking at where AI can help, which is why they brought someone with my background onto the platform team. Not "AI for the sake of AI" (I've seen enough of that to last a lifetime) but specific, bounded applications where machine learning or language models can make clinicians' lives easier. Patient communication, clinical documentation, care plan personalisation. All with the appropriate guardrails, because (see above) healthcare.
 
 ## Managing Engineers Again
 
@@ -46,6 +46,6 @@ The QA dimension is interesting too. In healthcare, testing isn't just "does it 
 
 ## What's Next
 
-I'm three weeks in as I write this, and I'm still in the "drinking from the firehose" phase. But I can already see where this is going. The connected care space is ready for a proper AI strategy — not chatbots slapped onto existing workflows, but thoughtful integration of AI capabilities into the care experience.
+I'm three weeks in as I write this, and I'm still in the "drinking from the firehose" phase. But I can already see where this is going. The connected care space is ready for a proper AI strategy. Not chatbots slapped onto existing workflows, but thoughtful integration of AI capabilities into the care experience.
 
 More on that as it develops. For now, I'm learning how hospitals work, and it turns out that's quite a lot to learn.

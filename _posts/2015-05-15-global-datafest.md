@@ -12,7 +12,7 @@ That was my Saturday night at the Global Urban Datafest, a hackathon I helped or
 
 ## What Was the Global Urban Datafest?
 
-The Urban Datafest was coordinated between IBM, Stanford, and a network of urban data organisations across the world. The idea: run simultaneous hackathons in 30 cities on the same weekend, all focused on urban data. London, New York, Barcelona, Melbourne, Nairobi — the bones of 300 teams hacking on city problems in parallel.
+The Urban Datafest was coordinated between IBM, Stanford, and a network of urban data organisations across the world. The idea: run simultaneous hackathons in 30 cities on the same weekend, all focused on urban data. London, New York, Barcelona, Melbourne, Nairobi. The bones of 300 teams hacking on city problems in parallel.
 
 My role was organising the London event at FabLab London in Bermondsey. This involved: booking the space (free, cheers FabLab), sourcing sponsors for food (£400 from local companies, plus IBM covered the coffee), getting datasets from TfL and the London Datastore prepped, and doing that thing where you pretend everything is under control while frantically emailing people who haven't confirmed their attendance.
 
@@ -31,7 +31,7 @@ I spent the first four hours of the hackathon not hacking at all, just making su
 
 ## Social Cycle
 
-Around 6pm on Saturday, once things had settled down, I joined a team. I know, I know — organisers shouldn't compete. But we were a person short, and I'd already set up all the datasets, and honestly I just wanted to build something.
+Around 6pm on Saturday, once things had settled down, I joined a team. I know, I know, organisers shouldn't compete. But we were a person short, and I'd already set up all the datasets, and honestly I just wanted to build something.
 
 The project was called Social Cycle. The team was me, Sarah Gallacher, and Vasilis Kostakos. The concept: map London's cycling infrastructure against social deprivation data. Show where cycle hire stations, cycle lanes, and cycling investment existed, then overlay that with indices of deprivation. The question was simple: is cycling infrastructure going where it's needed, or where it's already affluent?
 
@@ -43,7 +43,7 @@ We built a web app using Leaflet.js, pulling in Santander Cycles station data, T
 
 Each city picked a local winner, and then there was a global judging round. We won London, which was already a surprise. Then, a week later, we got the email: Social Cycle had won the global prize.
 
-The prize was — and I'm not making this up — a certificate and a mention on the Stanford website. No money. No trophy. A certificate. But you know what, we were genuinely delighted. It validated the idea that simple data visualisation, done well, could tell a compelling story about inequality. You didn't need machine learning or a blockchain. You needed two datasets and a map.
+The prize was (and I'm not making this up) a certificate and a mention on the Stanford website. No money. No trophy. A certificate. But you know what, we were genuinely delighted. It validated the idea that simple data visualisation, done well, could tell a compelling story about inequality. You didn't need machine learning or a blockchain. You needed two datasets and a map.
 
 ## What I Actually Learned
 
