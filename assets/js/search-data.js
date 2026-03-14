@@ -142,7 +142,7 @@ ninja.data = [{
         
           title: "Prompt Engineering is Dead, Long Live Context Engineering",
         
-        description: "What actually matters when building AI systems isn&#39;t clever prompts — it&#39;s structured context. The discipline that replaced prompt engineering.",
+        description: "What actually matters when building AI systems isn&#39;t clever prompts, it&#39;s structured context. The discipline that replaced prompt engineering.",
         section: "Posts",
         handler: () => {
           
@@ -153,7 +153,7 @@ ninja.data = [{
         
           title: "ProductBuilder: What I Learned Building a Multi-Agent Platform from Scratch",
         
-        description: "Technical lessons from building a multi-agent orchestration platform with LangGraph — architecture decisions, context patterns, and where RAG falls apart.",
+        description: "Technical lessons from building a multi-agent orchestration platform with LangGraph, covering architecture decisions, context patterns, and where RAG falls apart.",
         section: "Posts",
         handler: () => {
           
@@ -197,7 +197,7 @@ ninja.data = [{
         
           title: "Hot Take: Why Enterprise AI Projects Fail (It&#39;s Not the AI)",
         
-        description: "After a decade in AI across startups and enterprise, I can tell you — the model is never the problem.",
+        description: "After a decade in AI across startups and enterprise, I can tell you the model is never the problem.",
         section: "Posts",
         handler: () => {
           
@@ -483,7 +483,7 @@ ninja.data = [{
         
           title: "What Actually Happens When You Deploy Sensors in the Wild",
         
-        description: "A preview of the &quot;Tales from the Wild&quot; paper — three case studies from the London Living Lab covering air quality, microclimate, and urban bat monitoring.",
+        description: "A preview of the &quot;Tales from the Wild&quot; paper, three case studies from the London Living Lab covering air quality, microclimate, and urban bat monitoring.",
         section: "Posts",
         handler: () => {
           
@@ -505,7 +505,7 @@ ninja.data = [{
         
           title: "Sensors, Batteries, and Why &#39;Deploy and Forget&#39; is a Lie",
         
-        description: "The core problem of my PhD taking shape — battery degradation in wireless sensor networks and why existing energy harvesting models assume batteries last forever.",
+        description: "The core problem of my PhD taking shape. Battery degradation in wireless sensor networks and why existing energy harvesting models assume batteries last forever.",
         section: "Posts",
         handler: () => {
           
@@ -516,7 +516,7 @@ ninja.data = [{
         
           title: "API Month: Day 1-11 (and Why I Stopped)",
         
-        description: "A consolidation of my API Month experiment — eleven days of building things with public APIs, from Citymapper to the ISS, and an honest account of why I stopped.",
+        description: "A consolidation of my API Month experiment, eleven days of building things with public APIs, from Citymapper to the ISS, and an honest account of why I stopped.",
         section: "Posts",
         handler: () => {
           
@@ -538,7 +538,7 @@ ninja.data = [{
         
           title: "The London Living Lab: Deploying Hundreds of Air Quality Sensors Across a City...",
         
-        description: "Technical architect on the London Living Lab — deploying hundreds of air quality, weather, and environmental sensors across London and learning what breaks at scale.",
+        description: "Technical architect on the London Living Lab, deploying hundreds of air quality, weather, and environmental sensors across London and learning what breaks at scale.",
         section: "Posts",
         handler: () => {
           
