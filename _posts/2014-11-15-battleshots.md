@@ -54,11 +54,9 @@ So, the bones of €30. About the same as the cheap commercial versions, but it'
 
 We tested BattleShots at a house party last Saturday. Eight people, tournament format. A few observations:
 
-First, the game gets dramatically worse at strategic decision-making as it progresses. By round three, people are calling out coordinates that don't exist ("H7!" "There is no H7, the grid is 5x5"). This is, arguably, the entire point.
+First, the shot glasses fit the cutouts perfectly, which was satisfying. A 45mm circle with a 0.2mm kerf leaves just enough friction to hold the glass in place but not so tight that you can't lift it out. I'd measured the glasses with calipers beforehand, which felt excessive at the time and turned out to be exactly the right level of preparation.
 
-Second, the shot glasses fit the cutouts perfectly, which was satisfying. A 45mm circle with a 0.2mm kerf leaves just enough friction to hold the glass in place but not so tight that you can't lift it out. I'd measured the glasses with calipers beforehand, which felt excessive at the time and turned out to be exactly the right level of preparation.
-
-Third, the vertical divider needs to be at least 200mm tall to actually prevent peeking. Mine was 150mm. There was cheating. I've redesigned it.
+Second, the vertical divider needs to be at least 200mm tall to actually prevent peeking. Mine was 150mm. There was cheating. I've redesigned it.
 
 ## Why Fun Matters
 
@@ -74,4 +72,4 @@ I think maker communities sometimes forget this. We get caught up in IoT sensor 
 
 My next frivolous project is a laser-cut chess set where all the pieces are different Dublin landmarks. The king is the Spire. The pawns are those bins on O'Connell Street. It has absolutely no practical value and I can't wait to make it.
 
-Cheers to Niamh for the coordinate engraving idea, and to Rory for losing spectacularly at BattleShots despite claiming to be "brilliant at Battleship as a child."
+Cheers to the lads for the coordinate engraving idea, and to the one person who lost spectacularly despite claiming to be "brilliant at Battleship as a child." You know who you are.

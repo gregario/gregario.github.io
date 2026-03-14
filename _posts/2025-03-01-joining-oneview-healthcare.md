@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joining Oneview Healthcare: AI in Connected Care"
-date: 2025-01-15
+date: 2025-03-01
 categories: professional
 description: Platform team lead at a connected care company serving major hospital systems, and why healthcare is the hardest place to ship software.
 ---
@@ -16,7 +16,7 @@ Oneview builds the software that runs on those bedside tablets and in-room displ
 
 Sounds straightforward, right? It's not. These systems integrate with the hospital's EHR (electronic health record), meal ordering systems, nurse call systems, entertainment platforms, patient education libraries, and about fourteen other things that were all built by different vendors in different decades. The integration surface is enormous.
 
-I'm leading a platform team of 7 engineers plus QA, with my lead engineer Sarah keeping everything on track. Our job is the infrastructure that makes all those integrations reliable and the platform that other teams build features on top of. It's the plumbing. Nobody notices plumbing until it breaks, and in a hospital, "breaks" has a different weight than in most software companies.
+I'm leading a platform team of 7 engineers plus QA. Our job is the infrastructure that makes all those integrations reliable and the platform that other teams build features on top of. It's the plumbing. Nobody notices plumbing until it breaks, and in a hospital, "breaks" has a different weight than in most software companies.
 
 ## Why Healthcare Is Hard
 

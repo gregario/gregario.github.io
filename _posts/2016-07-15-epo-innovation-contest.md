@@ -40,7 +40,7 @@ Quick tangent: patent examiners are fascinating people. They spend their careers
 
 Second, the scale of European research is humbling. Ireland is a small country. We produce excellent research, but when you're in a room with 30+ countries, each fielding their best young researcher, you realise how much is happening that you never see in your own institution's seminar series.
 
-Third, Munich is extremely expensive. My per diem was €75 a day and I still managed to overspend, mostly because a pint of beer costs €6-7 in the city centre and it felt culturally inappropriate not to participate.
+Third, Munich is extremely expensive. My per diem was €75 a day and I still managed to overspend. Between meals, coffee, and the odd evening out, the costs add up quickly in a city centre.
 
 ## Back to the PhD
 

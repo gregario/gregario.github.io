@@ -28,7 +28,7 @@ Here's a tangent on hawker centres, because I think they're genuinely one of Sin
 
 The team formation dynamics at EF Singapore surprised me. In London, people were relatively direct about what they wanted and didn't want in a co-founder. "I need someone technical." "I need someone who can sell." Conversations were efficient, sometimes brutally so.
 
-In Singapore, the cultural mix meant that directness varied enormously. Some people from certain backgrounds found it uncomfortable to say "I don't think we're a good fit" directly. Others were more direct than anyone I'd met in London. Navigating this required a different kind of emotional intelligence than I'd developed in the UK, where passive aggression is basically a national sport.
+In Singapore, the cultural mix meant that directness varied enormously. Some people from certain backgrounds found it uncomfortable to say "I don't think we're a good fit" directly. Others were more direct than anyone I'd met in London. Navigating this required a different kind of emotional intelligence than I'd developed in the UK, where indirectness is more common than people admit.
 
 The ideas that emerged were also shaped by the region. Several teams were working on problems specific to Southeast Asian markets: financial inclusion in Indonesia, logistics optimisation across island nations, agricultural technology for tropical climates. These weren't problems you'd naturally encounter sitting in Shoreditch.
 

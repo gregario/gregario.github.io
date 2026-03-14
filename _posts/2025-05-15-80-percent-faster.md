@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "80% Faster: How Multi-Agent Workflows Changed Our Product Process"
-date: 2025-03-15
+date: 2025-05-15
 categories: professional
 description: Leading company-wide AI transformation, starting with an 80% reduction in PRD-to-user-story conversion time using multi-agent workflows.
 ---
 
-Two months into my role at Oneview, our VP of Product, Fiona, asked me a question that changed the trajectory of my year: "Could you show the product team how you use AI? They're curious."
+Two months into my role at Oneview, our VP of Product asked me a question that changed the trajectory of my year: "Could you show the product team how you use AI? They're curious."
 
 That "showing" turned into a company-wide AI transformation programme. I didn't plan it that way, but here we are.
 

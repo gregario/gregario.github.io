@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Head of AI Transformation: What the Role Actually Looks Like"
+title: "Leading AI Transformation: What the Role Actually Looks Like"
 date: 2025-09-15
 categories: professional
-description: From platform team lead to Head of AI Transformation, and what the role involves when you strip away the buzzwords.
+description: Six months into leading AI transformation at Oneview, from Technical PM to owning the AI strategy, and what the role involves when you strip away the buzzwords.
 ---
 
-When my title changed to Head of AI Transformation, my mum asked me what that meant. I tried to explain it three different ways before she said, "So you help people use AI at work?" and I realised she'd nailed it better than I had.
+"Head of AI Transformation" is one of those job titles that didn't exist five years ago, and still sounds like something you'd find on a satirical LinkedIn bingo card. I know this because when I tell people what I do, I can see them trying to work out whether I'm serious. Fair enough. I had the same reaction the first time I saw the title on a job spec.
 
 ## The Title Problem
 
-"Head of AI Transformation" sounds like a title someone invented at a management consultancy after too many espressos. I know this. I've made the jokes myself. But the role exists because the problem exists: most organisations know they should be using AI more effectively and have no coherent strategy for doing so.
+"AI Transformation" sounds like something someone invented at a management consultancy after too many espressos. I know this. I've made the jokes myself. But the role exists because the problem exists: most organisations know they should be using AI more effectively and have no coherent strategy for doing so.
 
 The difference between "we use AI" and "we are AI-native" is the difference between having a gym membership and being fit. One is a purchase; the other is a practice. My job is to build the practice.
 
@@ -57,8 +57,8 @@ The most effective thing I've done for adoption, though, isn't data. It's pairin
 
 ## The Honest Bit
 
-I don't have this figured out. I'm 9 months into a role that barely existed 2 years ago, in an industry that moves slower than tech but faster than it used to. I make mistakes regularly. Last month I pushed a workflow on a team that wasn't ready for it and had to walk it back. The month before, I underestimated a compliance requirement and cost a project two weeks.
+I don't have this figured out. I'm 6 months into leading AI transformation at Oneview, having evolved from the Technical PM role I started in March, in an industry that moves slower than tech but faster than it used to. I make mistakes regularly. Last month I pushed a workflow on a team that wasn't ready for it and had to walk it back. The month before, I underestimated a compliance requirement and cost a project two weeks.
 
 But I've been in AI since before it was trendy. I did my PhD in computational modelling. I built a smart buildings startup. I was working with neural networks when the best models could "sometimes recognise cats." So when someone asks me if this is a fad, I can say with some confidence: it's not, and the organisations that build the practice now will have a meaningful advantage in three years.
 
-My mum would just say I help people use AI at work. She's not wrong.
+Strip away the buzzwords and the strategy decks, and the job is pretty simple: I help people use AI at work. Everything else is just scaffolding around that.

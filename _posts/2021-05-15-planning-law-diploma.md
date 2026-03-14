@@ -20,7 +20,7 @@ A planning application moves through a series of defined states. It's submitted 
 
 Every transition has preconditions. Every state has defined actions. The system is deterministic in structure even when individual decisions involve judgment. It is, unmistakably, a finite state machine. And once you see it that way, you can model it, which means you can build software for it.
 
-I actually drew out the state diagram during a lecture, using UML notation I hadn't touched since my undergrad software engineering module. Aoife, the barrister sitting next to me, looked at my notebook, looked at me, and said, "What language is that in?" I told her it was a state transition diagram. She told me it was the clearest summary of planning procedure she'd ever seen. We were both right.
+I actually drew out the state diagram during a lecture, using UML notation I hadn't touched since my undergrad software engineering module. The barrister sitting next to me looked at my notebook, looked at me, and said, "What language is that in?" I told her it was a state transition diagram. She told me it was the clearest summary of planning procedure she'd ever seen. We were both right.
 
 ## Systems Thinking in a Wig
 

@@ -20,19 +20,19 @@ The role was Senior Product Manager for a new SaaS platform targeting commercial
 
 ## The "accidental fleet owners" insight
 
-Here's the thing that made the product interesting. When most people hear "fleet management," they think of DHL or FedEx — massive operations with hundreds of trucks and dedicated logistics teams. But ZF's aftermarket data showed something different.
+Here's the thing that made the product interesting. When most people hear "fleet management," they think of DHL or FedEx, massive operations with hundreds of trucks and dedicated logistics teams. But ZF's aftermarket data showed something different.
 
 The bones of 70% of commercial vehicles in Europe are owned by companies with fewer than 20 vehicles. These aren't logistics companies. They're plumbers. Bakers. Construction firms. Landscapers. They own vans and trucks because they need to get their people and equipment to job sites. Fleet management is not their business; it's an inconvenience that comes with running their actual business.
 
 I started calling them "accidental fleet owners." They don't have fleet managers. The person tracking vehicle maintenance is usually whoever sits nearest the filing cabinet. Their systems are a mix of Excel, sticky notes, and hoping the MOT reminder letter arrives before the deadline.
 
-These people don't want fleet management software. They want to not think about their vehicles at all. That distinction — between selling a tool and removing a headache — became the foundation of everything we built.
+These people don't want fleet management software. They want to not think about their vehicles at all. That distinction (between selling a tool and removing a headache) became the foundation of everything we built.
 
 (Tangent: I spent a day riding along with a plumbing company in Stuttgart that had 11 vans. The owner, Thomas, showed me his "fleet management system." It was a cork board with vehicle keys hanging on hooks, and a WhatsApp group where drivers reported problems. When I asked how he tracked maintenance schedules, he laughed and said "I wait until something breaks." His annual repair costs were €47,000. He had no idea that number was roughly double what it should have been.)
 
 ## The startup-inside-enterprise dance
 
-Building a new product inside a company like ZF is a peculiar exercise. You have resources that a startup founder would weep for — engineers, data, existing customer relationships, brand credibility. But you also have constraints that would make a startup founder throw a chair.
+Building a new product inside a company like ZF is a peculiar exercise. You have resources that a startup founder would weep for: engineers, data, existing customer relationships, brand credibility. But you also have constraints that would make a startup founder throw a chair.
 
 Everything takes longer. Not because people are slow, but because the stakes are different. When ZF puts its name on a product, 150,000 employees' reputations are attached to it. The quality bar is higher. The compliance requirements are real. The procurement process for a third-party API integration involves a security review that takes six weeks minimum.
 
@@ -42,10 +42,10 @@ The trick is finding the spaces where you can move fast without triggering the a
 
 ## What I wish I'd known
 
-The biggest adjustment wasn't process or politics — it was feedback loops. In a startup, you ship something on Monday and you know by Wednesday if anyone cares. At ZF, the feedback loop from "feature shipped" to "customer actually using it" could be three months because the enterprise sales cycle is that long.
+The biggest adjustment wasn't process or politics, it was feedback loops. In a startup, you ship something on Monday and you know by Wednesday if anyone cares. At ZF, the feedback loop from "feature shipped" to "customer actually using it" could be three months because the enterprise sales cycle is that long.
 
 I compensated by building a direct line to about fifteen customers who'd agreed to weekly check-ins. My manager thought I was spending too much time on customer calls. I thought I was spending exactly the right amount. We agreed to disagree.
 
-Eight months in, I can say this: I'm learning things about product management at scale that I couldn't have learned any other way. My lead engineer, Markus, has been patient enough to explain why things that took me ten minutes in a startup take ten days here, and our UX designer, Clara, has a gift for translating enterprise complexity into screens that Thomas the plumber would actually use. The startup years taught me how to build from zero. ZF is teaching me how to build from zero when zero is surrounded by a hundred years of something.
+Eight months in, I can say this: I'm learning things about product management at scale that I couldn't have learned any other way. My lead engineer has been patient enough to explain why things that took me ten minutes in a startup take ten days here, and our UX designer has a gift for translating enterprise complexity into screens that Thomas the plumber would actually use. The startup years taught me how to build from zero. ZF is teaching me how to build from zero when zero is surrounded by a hundred years of something.
 
 Whether that's a skill I'll use inside enterprise forever or take back to the startup world, I genuinely don't know yet. Ask me in a year.

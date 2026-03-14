@@ -38,7 +38,7 @@ Our contribution was a method that made this more controllable at scale. It's no
 
 ## Being an Inventor at 23
 
-I want to be honest about this: being named on a patent as a junior engineer is partly about being in the right place. I did real work. I ran experiments, collected data, and contributed ideas in the lab meetings where we figured out the approach. But the senior researchers, particularly Dr. Mazhar and Aoife, did the heavy conceptual lifting. The patent system names everyone who contributed to the inventive step. I contributed. I'm proud of it. But I'm not going to pretend I was the primary brain behind it.
+I want to be honest about this: being named on a patent as a junior engineer is partly about being in the right place. I did real work. I ran experiments, collected data, and contributed ideas in the lab meetings where we figured out the approach. But the senior researchers did the heavy conceptual lifting. The patent system names everyone who contributed to the inventive step. I contributed. I'm proud of it. But I'm not going to pretend I was the primary brain behind it.
 
 The patent process itself was bewildering. Patent attorneys speak a language that's adjacent to English but not quite the same. I remember sitting in a meeting where the attorney explained that we needed to describe our invention in terms broad enough to be useful but narrow enough to be defensible, and thinking "this is the opposite of how I was taught to write in university." Scientific papers want precision. Patents want strategic ambiguity within defined boundaries.
 

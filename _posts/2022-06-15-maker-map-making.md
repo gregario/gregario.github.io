@@ -3,16 +3,16 @@ layout: post
 title: "Maker: Map Making (Updated)"
 date: 2022-06-15
 categories: personal
-description: Three maps I made — Enfield, the world, and the 2016 US election. One aged better than the others.
+description: Three maps I made (Enfield, the world, and the 2016 US election). One aged better than the others.
 ---
 
 I've always liked maps. Not in the "I collect vintage Ordnance Survey sheets" way (though I absolutely would if I had the wall space), but in the "I want to visualise where things are and what they mean" way. Over the years, I've made three maps that I'm still oddly proud of.
 
 ## The Enfield Map
 
-This started in 2015 when I was living in Enfield, North London, during my PhD at Imperial. I wanted a proper map of the borough — not a Google Maps screenshot, but something you'd actually want on a wall. So I pulled OpenStreetMap data, wrote a Python script to extract building footprints, roads, parks, and waterways, and rendered it in a style I liked.
+This started in 2015 when I was living in Enfield, North London, during my PhD at Imperial. I wanted a proper map of the borough, not a Google Maps screenshot, but something you'd actually want on a wall. So I pulled OpenStreetMap data, wrote a Python script to extract building footprints, roads, parks, and waterways, and rendered it in a style I liked.
 
-The whole thing took about two weekends. The trickiest part was getting the road widths right — OSM classifies roads by type (motorway, primary, residential, etc.) but the visual weight needs to be proportional or the map looks like spaghetti. I ended up with a classification scheme that had 7 tiers of line weight. Probably overthought it.
+The whole thing took about two weekends. The trickiest part was getting the road widths right. OSM classifies roads by type (motorway, primary, residential, etc.) but the visual weight needs to be proportional or the map looks like spaghetti. I ended up with a classification scheme that had 7 tiers of line weight. Probably overthought it.
 
 I got it printed at 600x400mm on nice card stock at a print shop in Southgate for £12. It's still on my parents' wall. Cost per unit of satisfaction: remarkably low.
 
@@ -38,7 +38,7 @@ We, erm, stopped filling it out before the end of the evening.
 
 I think we got to about 35 states before people either left or lost the will to colour. The map sat on the floor with a wine glass ring on Michigan. I kept it for a while as a sort of memento mori, then binned it during a move.
 
-(A tangent on what happened since: that election night map turned out to be a weirdly formative experience. The gap between "what the data said would happen" and "what actually happened" stuck with me. When I started my PhD work on air quality prediction models, I kept coming back to this idea — that models are only as good as the assumptions baked into them. My PhD used optimisation algorithms to predict air quality patterns, and the first thing I learned was that the Met Office weather data we were feeding in had systematic biases that none of the existing models accounted for. The 2016 map didn't teach me that directly, but it made me allergic to overconfident predictions.)
+(A tangent on what happened since: that election night map turned out to be a weirdly formative experience. The gap between "what the data said would happen" and "what actually happened" stuck with me. When I started my PhD work on air quality prediction models, I kept coming back to this idea, that models are only as good as the assumptions baked into them. My PhD used optimisation algorithms to predict air quality patterns, and the first thing I learned was that the Met Office weather data we were feeding in had systematic biases that none of the existing models accounted for. The 2016 map didn't teach me that directly, but it made me allergic to overconfident predictions.)
 
 ## Why I still make things
 

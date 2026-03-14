@@ -18,7 +18,7 @@ Let me break this down honestly, because accelerator websites are relentlessly o
 
 **Mentorship.** This varies wildly. The best mentors I encountered were people who'd built and sold companies in adjacent domains and could give specific, actionable advice. "Have you tried calling the procurement office directly? Here's the name of the person you want." The worst were people who gave generic business advice they'd clearly read in a book. "You need to find product-market fit." Thanks, I'd never considered that.
 
-NDRC's mentorship was excellent — Ben Hurley and the team curated mentors and matched them to your specific domain. New Frontiers' mentorship was more general but still valuable, particularly for the Ireland-specific regulatory and market questions that international programmes can't answer.
+NDRC's mentorship was excellent. The team curated mentors and matched them to your specific domain. New Frontiers' mentorship was more general but still valuable, particularly for the Ireland-specific regulatory and market questions that international programmes can't answer.
 
 **Network.** This is, honestly, the most valuable thing you get. Not the accelerator's network, though that helps. Your cohort. The other founders going through the same programme at the same time. They become your peer group, your sounding board, your emergency phone calls at 10pm when a customer cancels and you need someone to talk you off the ledge.
 

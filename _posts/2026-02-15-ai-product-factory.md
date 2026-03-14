@@ -41,7 +41,7 @@ The Godot stack profile includes:
 - `project_structure.md` (where files go, scene organisation)
 - `pitfalls.md` (the bugs you'll hit and how to avoid them)
 
-The pitfalls file is gold. Every entry is a bug that actually happened. "`:=` on `Dictionary.get()` causes Variant parse errors in Godot 4.6 — use explicit types." That entry alone has probably saved 20 hours of debugging across sessions.
+The pitfalls file is gold. Every entry is a bug that actually happened. "`:=` on `Dictionary.get()` causes Variant parse errors in Godot 4.6, use explicit types." That entry alone has probably saved 20 hours of debugging across sessions.
 
 When Engineer Claude starts a session, it reads the stack profile first. It's like onboarding a new developer, except the onboarding takes 3 seconds and the developer never forgets what it learned. (Well, it forgets when the context window clears, but then it reads the profile again. The circle of AI life.)
 

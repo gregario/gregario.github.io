@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ProductBuilder: What I Learned Building a Multi-Agent Platform from Scratch"
-date: 2024-05-15
+date: 2024-12-15
 categories: professional
 description: Technical lessons from building a multi-agent orchestration platform with LangGraph, covering architecture decisions, context patterns, and where RAG falls apart.
 ---
@@ -12,15 +12,15 @@ I'd discovered context accumulation drift, and fixing it changed how I think abo
 
 ## The architecture
 
-ProductBuilder is built on LangGraph, which is LangChain's framework for stateful, multi-step agent workflows. I chose LangGraph over alternatives (CrewAI, AutoGen, raw function chaining) after a conversation with my friend Donal, who'd been tinkering with AutoGen, for three reasons: explicit state management, support for cycles and conditionals in the agent graph, and the ability to checkpoint and resume workflows.
+ProductBuilder is built on LangGraph, which is LangChain's framework for stateful, multi-step agent workflows. I chose LangGraph over alternatives (CrewAI, AutoGen, raw function chaining) for three reasons: explicit state management, support for cycles and conditionals in the agent graph, and the ability to checkpoint and resume workflows.
 
 The system has five agents:
 
-1. **Product Analyst** — takes a product concept and produces a structured specification with user stories, constraints, and acceptance criteria.
-2. **Architect** — receives the spec, researches similar projects, and proposes a technical architecture.
-3. **Planner** — breaks the architecture into implementation tasks with dependencies.
-4. **Developer** — generates code for individual tasks.
-5. **Reviewer** — evaluates outputs and can send work back to earlier agents.
+1. **Product Analyst**: takes a product concept and produces a structured specification with user stories, constraints, and acceptance criteria.
+2. **Architect**: receives the spec, researches similar projects, and proposes a technical architecture.
+3. **Planner**: breaks the architecture into implementation tasks with dependencies.
+4. **Developer**: generates code for individual tasks.
+5. **Reviewer**: evaluates outputs and can send work back to earlier agents.
 
 Each agent has a system prompt, a set of tools (search, code execution, file operations), and access to a shared state object that accumulates context as work flows through the graph.
 

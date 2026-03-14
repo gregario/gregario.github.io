@@ -36,7 +36,7 @@ The ESA BIC programme provides several things. There's a financial contribution 
 
 Here's a tangent: the ESA logo is surprisingly effective in customer meetings. I've sat in rooms with architects and planning consultants who were politely sceptical about AI (fair enough, most AI pitches in 2020 were aspirational at best) but visibly impressed when the European Space Agency came up. There's something about the space agency that carries authority across domains. People trust rocket scientists, even when the person in the room is not, technically, a rocket scientist.
 
-The technical support was genuinely useful. ESA connected me with their EO (Earth Observation) data access team — a researcher named Marco helped me set up efficient pipelines for pulling Sentinel-2 imagery. Without that guidance, I'd have spent weeks figuring out the Copernicus Open Access Hub API, which is functional but not what you'd call intuitive. Their documentation assumes a level of familiarity with satellite data formats (GeoTIFF, JP2, SAFE containers) that most software engineers don't have.
+The technical support was genuinely useful. ESA connected me with their EO (Earth Observation) data access team, who helped me set up efficient pipelines for pulling Sentinel-2 imagery. Without that guidance, I'd have spent weeks figuring out the Copernicus Open Access Hub API, which is functional but not what you'd call intuitive. Their documentation assumes a level of familiarity with satellite data formats (GeoTIFF, JP2, SAFE containers) that most software engineers don't have.
 
 ## The Bigger Picture
 

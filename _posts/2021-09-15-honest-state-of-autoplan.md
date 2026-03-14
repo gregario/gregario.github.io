@@ -46,7 +46,7 @@ Being a solo founder is lonely in a way that's hard to describe without sounding
 
 Every decision is yours. Every failure is yours. When the NLP model breaks on a Saturday night and a demo is on Monday morning, that's your Saturday night. When a customer call goes badly, there's no co-founder to debrief with. When you're not sure whether to pivot or persist, there's no partner to argue with until you find the right answer.
 
-The accelerator cohorts help. The EF and NDRC alumni networks help. Phone calls with other solo founders help — shout out to Dave, who co-founded a medtech startup from the NDRC cohort and always picked up. But they're not the same as having someone in the room who cares about this specific company as much as you do.
+The accelerator cohorts help. The EF and NDRC alumni networks help. Phone calls with other solo founders help. A few people from the NDRC cohort always picked up when I needed to talk. But they're not the same as having someone in the room who cares about this specific company as much as you do.
 
 I say this not to discourage solo founding but to describe it honestly. Some people thrive on it. I find it hard. Both things can be true.
 

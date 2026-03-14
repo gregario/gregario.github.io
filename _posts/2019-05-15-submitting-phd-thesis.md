@@ -8,7 +8,7 @@ description: On finishing a PhD at Imperial College London, surviving the viva, 
 
 The moment I submitted my PhD thesis, I went to the pub. This is not a remarkable statement for anyone who's done a PhD in the UK. What was remarkable was that I genuinely couldn't remember the last time I'd been to a pub without a laptop. Four years of evenings spent staring at LaTeX will do that to you.
 
-The thesis was called "Promoting Energy Efficiency and Longevity in Energy Neutral Sensor Systems." If you've already glazed over, don't worry. My mum did too. The short version: I spent four years figuring out how to make wireless sensors that harvest their own energy last longer and waste less of it. Think tiny devices powered by solar cells or vibration harvesters, deployed in places where you can't change batteries because the location is remote, dangerous, or just really inconvenient.
+The thesis was called "Promoting Energy Efficiency and Longevity in Energy Neutral Sensor Systems." If you've already glazed over, don't worry. Most people do too. The short version: I spent four years figuring out how to make wireless sensors that harvest their own energy last longer and waste less of it. Think tiny devices powered by solar cells or vibration harvesters, deployed in places where you can't change batteries because the location is remote, dangerous, or just really inconvenient.
 
 ## The Three Research Questions
 

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Leaving Enterprise: Why I Took a Career Break to Build AI Systems"
-date: 2024-02-15
+date: 2024-09-15
 categories: professional
-description: Six months off to go deep on AI agents, RAG, and multi-agent orchestration. Why hands-on building is the only way to understand the ecosystem.
+description: Five months off to go deep on AI agents, RAG, and multi-agent orchestration. Why hands-on building is the only way to understand the ecosystem.
 ---
 
-In January 2024, I left ZF Group. No next job lined up. No startup idea ready to go. Just a conviction that the AI ecosystem was moving faster than I could track from inside a corporate product role, and that the only way to truly understand it was to build with it full-time.
+In September 2024, I left ZF Group. No next job lined up. No startup idea ready to go. Just a conviction that the AI ecosystem was moving faster than I could track from inside a corporate product role, and that the only way to truly understand it was to build with it full-time.
 
-My wife Aoife was supportive. My mother was concerned. My LinkedIn contacts were confused.
+My LinkedIn contacts were confused. A few friends thought I'd lost the plot.
 
 ## The gap between knowing and doing
 
@@ -44,8 +44,8 @@ In ProductBuilder, the architecture agent can call a tool that searches for simi
 
 ## Why hands-on matters
 
-I could have spent these six months reading papers and attending conferences. I would have learned the vocabulary. I would not have learned that LangGraph's state management has specific patterns that work well and specific patterns that cause silent context accumulation bugs that are very difficult to debug. I would not have learned that the difference between a good and bad system prompt isn't cleverness, it's structure.
+I could have spent these months reading papers and attending conferences. I would have learned the vocabulary. I would not have learned that LangGraph's state management has specific patterns that work well and specific patterns that cause silent context accumulation bugs that are very difficult to debug. I would not have learned that the difference between a good and bad system prompt isn't cleverness, it's structure.
 
 Building is the only way to develop the intuition you need to make good product decisions in this space. I'm spending €200 a month on API costs and it's the best investment in my career I've made in years.
 
-When I go back to a product role (and I will), I'll be a PM who can actually review a pull request, question an architecture decision with evidence, and spot when an engineering estimate is optimistic because I've done the work myself. That's worth six months.
+When I go back to a product role (and I will), I'll be a PM who can actually review a pull request, question an architecture decision with evidence, and spot when an engineering estimate is optimistic because I've done the work myself. That's worth the time off.

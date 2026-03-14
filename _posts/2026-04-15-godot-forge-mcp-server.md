@@ -20,14 +20,14 @@ Think of it this way: if an AI assistant is a brain, MCP servers are hands and e
 
 godot-forge gives AI assistants 8 tools for working with Godot 4 projects:
 
-1. **test-runner** — runs GUT tests and returns structured results
-2. **script-analysis** — parses GDScript files for classes, functions, signals, dependencies
-3. **scene-analysis** — parses .tscn files for node trees, script attachments, resource references
-4. **docs-search** — searches Godot's built-in documentation
-5. **lsp-diagnostics** — gets Godot LSP errors and warnings
-6. **resource-analysis** — parses .tres resource files
-7. **project-scan** — scans project structure and returns a summary
-8. **screenshot** — captures the Godot editor or running game
+1. **test-runner**: runs GUT tests and returns structured results
+2. **script-analysis**: parses GDScript files for classes, functions, signals, dependencies
+3. **scene-analysis**: parses .tscn files for node trees, script attachments, resource references
+4. **docs-search**: searches Godot's built-in documentation
+5. **lsp-diagnostics**: gets Godot LSP errors and warnings
+6. **resource-analysis**: parses .tres resource files
+7. **project-scan**: scans project structure and returns a summary
+8. **screenshot**: captures the Godot editor or running game
 
 The test-runner was the most impactful. Before godot-forge, when Claude wrote code for BeerBrew Tycoon, I had to manually run the tests and paste the results back. Now Claude runs the tests itself, reads the output, and fixes failures without my involvement. The feedback loop went from minutes to seconds.
 

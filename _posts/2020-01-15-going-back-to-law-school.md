@@ -38,7 +38,7 @@ The content, though, was fascinating. Planning law is where abstract policy meet
 
 I was the only person in the class with a PhD in computing. Most of my classmates were practicing solicitors, barristers, or local authority planners. They were uniformly lovely and uniformly baffled by my presence.
 
-"But why do you need this?" a barrister named Aoife asked me during a break, genuine curiosity on her face.
+"But why do you need this?" one of the barristers asked me during a break, genuine curiosity on her face.
 
 I explained the AI angle. She thought about it for a moment and said, "That's either very clever or very strange." I told her I was hoping for both.
 

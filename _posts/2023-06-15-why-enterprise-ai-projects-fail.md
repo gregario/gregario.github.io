@@ -14,7 +14,7 @@ This happens constantly. And I'm tired of people blaming the AI.
 
 I've been working in AI since 2013. Intel Labs, then a PhD, then two startups, then the Turing Institute, now enterprise. In that time, I've seen the bones of 30 AI projects up close. The ones that fail, and most of them fail, share the same root causes. It's never the model. It's the data, the process, or the politics.
 
-**The data.** Every AI project starts with the assumption that the data exists and is clean. It almost never is. At ZF, my colleague Stefan and I had vehicle telematics data from millions of trucks across Europe. Sounds brilliant, right? Except the data came from 14 different hardware generations with different sensor configurations, different sampling rates, and different error codes for the same faults. We spent four months just building a normalisation layer before any ML work could begin.
+**The data.** Every AI project starts with the assumption that the data exists and is clean. It almost never is. At ZF, we had vehicle telematics data from millions of trucks across Europe. Sounds brilliant, right? Except the data came from 14 different hardware generations with different sensor configurations, different sampling rates, and different error codes for the same faults. We spent four months just building a normalisation layer before any ML work could begin.
 
 I've seen this pattern everywhere. The data is in three systems that don't talk to each other. It's in a format that made sense in 2008 but is now incomprehensible. There's a critical field that's null 40% of the time because one team stopped filling it in years ago and nobody noticed.
 

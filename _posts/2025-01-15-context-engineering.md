@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prompt Engineering is Dead, Long Live Context Engineering"
-date: 2024-08-15
+date: 2025-01-15
 categories: opinion
 description: What actually matters when building AI systems isn't clever prompts, it's structured context. The discipline that replaced prompt engineering.
 ---
@@ -16,7 +16,7 @@ I'm not saying prompts don't matter. They do. But the discipline of "prompt engi
 
 Here's why: in any production AI system, the prompt itself accounts for maybe 15% of the quality of the output. The other 85% is determined by the context the prompt operates within. What information does the model have access to? In what format? How current is it? How relevant is it to the specific task at hand?
 
-I've been building multi-agent systems for six months now, and the biggest quality improvements have never come from rewriting prompts. They've come from restructuring what information the model receives, when it receives it, and how it's formatted.
+I've been building multi-agent systems for the past few months, and the biggest quality improvements have never come from rewriting prompts. They've come from restructuring what information the model receives, when it receives it, and how it's formatted.
 
 That's context engineering.
 
@@ -38,7 +38,7 @@ Think of it this way. Prompt engineering is about crafting the question. Context
 
 A brilliant question asked in an information vacuum produces speculation. A mediocre question asked with excellent context produces useful answers. I've tested this repeatedly and it holds up. Take a simple prompt like "suggest improvements to this architecture" and vary the context quality while keeping the prompt identical. The output quality tracks the context quality almost perfectly.
 
-(Tangent: this maps surprisingly well to how product management works in enterprise. The best PMs I worked with at ZF (shout-out to Maria, who was brilliant at this) weren't the ones who asked the cleverest questions in stakeholder meetings. They were the ones who prepared the best pre-reads. By the time the meeting started, everyone had the right context, and even simple questions produced good decisions. Context engineering is PM skills applied to machines. Or maybe PM was always context engineering for humans. I'm still working out which way that analogy runs.)
+(Tangent: this maps surprisingly well to how product management works in enterprise. The best PMs I worked with at ZF weren't the ones who asked the cleverest questions in stakeholder meetings. They were the ones who prepared the best pre-reads. By the time the meeting started, everyone had the right context, and even simple questions produced good decisions. Context engineering is PM skills applied to machines. Or maybe PM was always context engineering for humans. I'm still working out which way that analogy runs.)
 
 ## Practical context engineering patterns
 

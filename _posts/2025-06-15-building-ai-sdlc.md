@@ -6,7 +6,7 @@ categories: professional
 description: Developing a company-wide framework for conceiving, building, and shipping AI features in healthcare software.
 ---
 
-Nobody wakes up excited to write process documentation. I certainly didn't. But six months into leading AI transformation at Oneview, I realised we had a problem that only process documentation could solve.
+Nobody wakes up excited to write process documentation. I certainly didn't. But three months into my role at Oneview, I realised we had a problem that only process documentation could solve.
 
 Teams were building AI features. That was the good news. The bad news was that every team was doing it differently. One team was fine-tuning models without a review process. Another was using an LLM API with no fallback strategy. A third had built something brilliant but couldn't explain to our compliance team how it worked. We were shipping AI features the way startups ship MVPs: fast, creative, and with a faint whiff of chaos.
 
@@ -14,7 +14,7 @@ Healthcare doesn't tolerate chaos well.
 
 ## What "AI-Native" Actually Means Operationally
 
-Everyone says they want to be "AI-native." It's one of those phrases that sounds strategic in a board meeting but dissolves into vagueness when you try to implement it. So I spent three weeks interviewing every team lead, every product manager, and our compliance officer Rachel to figure out what AI-native would actually look like at Oneview.
+Everyone says they want to be "AI-native." It's one of those phrases that sounds strategic in a board meeting but dissolves into vagueness when you try to implement it. So I spent three weeks interviewing every team lead, every product manager, and our compliance officer to figure out what AI-native would actually look like at Oneview.
 
 The answer: it means AI is a first-class consideration in every stage of the software development lifecycle, not an afterthought bolted on at the end.
 
