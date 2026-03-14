@@ -11,4 +11,3 @@ A brewery management sim built in Godot 4 where I'm the product owner and Claude
 
 The game's got interactive brewing with hop timelines, staff you can hire and specialise, an equipment upgrade path, a 20-node research tree, market dynamics with seasonal demand, and a full meta-progression system across runs. There's even a fork where you choose between artisan and mass-market brewing.
 
-[Source on GitHub](https://github.com/gregario/beerbrew-tycoon)

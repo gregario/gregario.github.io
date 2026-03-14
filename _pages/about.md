@@ -25,10 +25,8 @@ latest_posts:
   limit: 5
 ---
 
-I've spent the last fifteen-odd years bouncing between hardware, software, and AI (sometimes all at once). Started out trying to make cheap solar cells at SolarPrint, picked up a couple of European patents along the way, then did a stint at Intel Labs before heading to Imperial College London for a PhD. I was a researcher at the Alan Turing Institute too, which sounds fancier than it felt at the time.
+I've spent the last fifteen-odd years bouncing between hardware, software, and AI (sometimes all at once). Started out trying to make cheap solar cells at SolarPrint, picked up a couple of European patents along the way, then did a stint at Intel Labs before heading to Imperial College London for a PhD.
 
-I've founded three companies (Domus.ai, Glanaer, and AutoPlan) and went through Entrepreneur First twice, once in London and once in Singapore, because apparently I'm a slow learner. Along the way I co-founded [The Bedroom Laboratory](https://www.thebedlab.com), a maker collective, and our Climo air quality project won a CES 2018 innovation award, which was a pleasant surprise.
-
-These days I'm Head of AI Transformation at [Oneview Healthcare](https://www.oneviewhealthcare.com), figuring out where AI genuinely helps in hospitals and where it's just hype. I've also got an Advanced Diploma in Environmental & Planning Law from King's Inns, because why not.
+I've founded three companies (Domus.ai, Glanaer, and AutoPlan) and went through Entrepreneur First twice, once in London and once in Singapore. These days I'm Head of AI Transformation at [Oneview Healthcare](https://www.oneviewhealthcare.com), figuring out where AI genuinely helps in hospitals and where it's just hype.
 
 When I'm not doing any of that, I'm building a brewery management game called BeerBrew Tycoon (using AI-assisted development, naturally). I've published 5 peer-reviewed papers, but honestly the game might be more fun to talk about.
