@@ -45,11 +45,11 @@ ninja.data = [{
             window.location.href = "/2026/01/15/brewery-sim-ai-pair-programming/";
           
         },
-      },{id: "post-head-of-ai-transformation-what-the-role-actually-looks-like",
+      },{id: "post-leading-ai-transformation-what-the-role-actually-looks-like",
         
-          title: "Head of AI Transformation: What the Role Actually Looks Like",
+          title: "Leading AI Transformation: What the Role Actually Looks Like",
         
-        description: "From platform team lead to Head of AI Transformation, and what the role involves when you strip away the buzzwords.",
+        description: "Six months into leading AI transformation at Oneview, from Technical PM to owning the AI strategy, and what the role involves when you strip away the buzzwords.",
         section: "Posts",
         handler: () => {
           
@@ -75,7 +75,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/2025/03/15/80-percent-faster/";
+            window.location.href = "/2025/05/15/80-percent-faster/";
           
         },
       },{id: "post-joining-oneview-healthcare-ai-in-connected-care",
@@ -86,7 +86,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/2025/01/15/joining-oneview-healthcare/";
+            window.location.href = "/2025/03/01/joining-oneview-healthcare/";
           
         },
       },{id: "post-prompt-engineering-is-dead-long-live-context-engineering",
@@ -97,7 +97,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/2024/08/15/context-engineering/";
+            window.location.href = "/2025/01/15/context-engineering/";
           
         },
       },{id: "post-productbuilder-what-i-learned-building-a-multi-agent-platform-from-scratch",
@@ -108,7 +108,18 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/2024/05/15/productbuilder/";
+            window.location.href = "/2024/12/15/productbuilder/";
+          
+        },
+      },{id: "post-leaving-enterprise-why-i-took-a-career-break-to-build-ai-systems",
+        
+          title: "Leaving Enterprise: Why I Took a Career Break to Build AI Systems",
+        
+        description: "Five months off to go deep on AI agents, RAG, and multi-agent orchestration. Why hands-on building is the only way to understand the ecosystem.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2024/09/15/leaving-enterprise/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -120,17 +131,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-leaving-enterprise-why-i-took-a-career-break-to-build-ai-systems",
-        
-          title: "Leaving Enterprise: Why I Took a Career Break to Build AI Systems",
-        
-        description: "Six months off to go deep on AI agents, RAG, and multi-agent orchestration. Why hands-on building is the only way to understand the ecosystem.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2024/02/15/leaving-enterprise/";
           
         },
       },{id: "post-in-ai-before-it-was-trendy-a-timeline",
@@ -159,7 +159,7 @@ ninja.data = [{
         
           title: "Building a SaaS Product for Plumbers Who Accidentally Own Fleets",
         
-        description: "How we built Vandy — a fleet management SaaS for small businesses who never wanted to manage fleets in the first place.",
+        description: "How we built Vandy, a fleet management SaaS for small businesses who never wanted to manage fleets in the first place.",
         section: "Posts",
         handler: () => {
           
@@ -181,7 +181,7 @@ ninja.data = [{
         
           title: "Maker: Map Making (Updated)",
         
-        description: "Three maps I made — Enfield, the world, and the 2016 US election. One aged better than the others.",
+        description: "Three maps I made (Enfield, the world, and the 2016 US election). One aged better than the others.",
         section: "Posts",
         handler: () => {
           
@@ -203,7 +203,7 @@ ninja.data = [{
         
           title: "What I Learned from Running an AI Startup for Three Years",
         
-        description: "An honest retrospective on AutoPlan — what worked, what didn&#39;t, and what I&#39;d do differently.",
+        description: "An honest retrospective on AutoPlan. What worked, what didn&#39;t, and what I&#39;d do differently.",
         section: "Posts",
         handler: () => {
           
